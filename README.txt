@@ -1,4 +1,4 @@
-Ce petit projet permet de transmformer les charactéres d'un texte qui se trouve dans un fichier txt par exemple DATA.txt en majuscule si ils sont saisie en minuscule sinon en majuscule.
+Ce petit projet permet de transmformer les charactéres d'un texte qui se trouve dans un fichier txt par exemple DATA.txt en majuscule s' ils sont saisie en minuscule sinon en majuscule.
 
 
 Par exemple : 
